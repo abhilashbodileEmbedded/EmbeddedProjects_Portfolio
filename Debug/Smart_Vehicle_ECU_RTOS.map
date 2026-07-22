@@ -69,6 +69,200 @@ Discarded input sections
  .debug_str     0x0000000000000000       0xe2 C:/ST/STM32CubeIDE_1.13.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
  .ARM.attributes
                 0x0000000000000000       0x1c C:/ST/STM32CubeIDE_1.13.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .group         0x0000000000000000        0xc ./Core/App/app.o
+ .text          0x0000000000000000        0x0 ./Core/App/app.o
+ .data          0x0000000000000000        0x0 ./Core/App/app.o
+ .bss           0x0000000000000000        0x0 ./Core/App/app.o
+ .text.APP_Init
+                0x0000000000000000        0xe ./Core/App/app.o
+ .text.APP_CreateTasks
+                0x0000000000000000        0xe ./Core/App/app.o
+ .debug_info    0x0000000000000000       0x4b ./Core/App/app.o
+ .debug_abbrev  0x0000000000000000       0x31 ./Core/App/app.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/App/app.o
+ .debug_rnglists
+                0x0000000000000000       0x19 ./Core/App/app.o
+ .debug_macro   0x0000000000000000       0x1b ./Core/App/app.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/App/app.o
+ .debug_line    0x0000000000000000       0x5f ./Core/App/app.o
+ .debug_str     0x0000000000000000     0x2df5 ./Core/App/app.o
+ .comment       0x0000000000000000       0x44 ./Core/App/app.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/App/app.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/App/app.o
+ .group         0x0000000000000000        0xc ./Core/App/app_cli.o
+ .text          0x0000000000000000        0x0 ./Core/App/app_cli.o
+ .data          0x0000000000000000        0x0 ./Core/App/app_cli.o
+ .bss           0x0000000000000000        0x0 ./Core/App/app_cli.o
+ .debug_info    0x0000000000000000       0x22 ./Core/App/app_cli.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/App/app_cli.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/App/app_cli.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/App/app_cli.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/App/app_cli.o
+ .debug_line    0x0000000000000000       0x36 ./Core/App/app_cli.o
+ .debug_str     0x0000000000000000     0x2dd4 ./Core/App/app_cli.o
+ .comment       0x0000000000000000       0x44 ./Core/App/app_cli.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/App/app_cli.o
+ .group         0x0000000000000000        0xc ./Core/App/app_control.o
+ .text          0x0000000000000000        0x0 ./Core/App/app_control.o
+ .data          0x0000000000000000        0x0 ./Core/App/app_control.o
+ .bss           0x0000000000000000        0x0 ./Core/App/app_control.o
+ .debug_info    0x0000000000000000       0x22 ./Core/App/app_control.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/App/app_control.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/App/app_control.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/App/app_control.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/App/app_control.o
+ .debug_line    0x0000000000000000       0x3a ./Core/App/app_control.o
+ .debug_str     0x0000000000000000     0x2dd8 ./Core/App/app_control.o
+ .comment       0x0000000000000000       0x44 ./Core/App/app_control.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/App/app_control.o
+ .group         0x0000000000000000        0xc ./Core/App/app_fault.o
+ .text          0x0000000000000000        0x0 ./Core/App/app_fault.o
+ .data          0x0000000000000000        0x0 ./Core/App/app_fault.o
+ .bss           0x0000000000000000        0x0 ./Core/App/app_fault.o
+ .debug_info    0x0000000000000000       0x22 ./Core/App/app_fault.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/App/app_fault.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/App/app_fault.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/App/app_fault.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/App/app_fault.o
+ .debug_line    0x0000000000000000       0x38 ./Core/App/app_fault.o
+ .debug_str     0x0000000000000000     0x2dd6 ./Core/App/app_fault.o
+ .comment       0x0000000000000000       0x44 ./Core/App/app_fault.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/App/app_fault.o
+ .group         0x0000000000000000        0xc ./Core/App/app_led.o
+ .text          0x0000000000000000        0x0 ./Core/App/app_led.o
+ .data          0x0000000000000000        0x0 ./Core/App/app_led.o
+ .bss           0x0000000000000000        0x0 ./Core/App/app_led.o
+ .text.APP_LED_Init
+                0x0000000000000000        0xe ./Core/App/app_led.o
+ .text.APP_LED_Task
+                0x0000000000000000        0xa ./Core/App/app_led.o
+ .debug_info    0x0000000000000000       0x65 ./Core/App/app_led.o
+ .debug_abbrev  0x0000000000000000       0x62 ./Core/App/app_led.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/App/app_led.o
+ .debug_rnglists
+                0x0000000000000000       0x19 ./Core/App/app_led.o
+ .debug_macro   0x0000000000000000       0x1b ./Core/App/app_led.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/App/app_led.o
+ .debug_line    0x0000000000000000       0x6d ./Core/App/app_led.o
+ .debug_str     0x0000000000000000     0x2e0b ./Core/App/app_led.o
+ .comment       0x0000000000000000       0x44 ./Core/App/app_led.o
+ .debug_frame   0x0000000000000000       0x4c ./Core/App/app_led.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/App/app_led.o
+ .group         0x0000000000000000        0xc ./Core/App/app_logger.o
+ .text          0x0000000000000000        0x0 ./Core/App/app_logger.o
+ .data          0x0000000000000000        0x0 ./Core/App/app_logger.o
+ .bss           0x0000000000000000        0x0 ./Core/App/app_logger.o
+ .debug_info    0x0000000000000000       0x22 ./Core/App/app_logger.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/App/app_logger.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/App/app_logger.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/App/app_logger.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/App/app_logger.o
+ .debug_line    0x0000000000000000       0x39 ./Core/App/app_logger.o
+ .debug_str     0x0000000000000000     0x2dd7 ./Core/App/app_logger.o
+ .comment       0x0000000000000000       0x44 ./Core/App/app_logger.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/App/app_logger.o
+ .group         0x0000000000000000        0xc ./Core/App/app_sensor.o
+ .text          0x0000000000000000        0x0 ./Core/App/app_sensor.o
+ .data          0x0000000000000000        0x0 ./Core/App/app_sensor.o
+ .bss           0x0000000000000000        0x0 ./Core/App/app_sensor.o
+ .debug_info    0x0000000000000000       0x22 ./Core/App/app_sensor.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/App/app_sensor.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/App/app_sensor.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/App/app_sensor.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/App/app_sensor.o
+ .debug_line    0x0000000000000000       0x39 ./Core/App/app_sensor.o
+ .debug_str     0x0000000000000000     0x2dd7 ./Core/App/app_sensor.o
+ .comment       0x0000000000000000       0x44 ./Core/App/app_sensor.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/App/app_sensor.o
+ .group         0x0000000000000000        0xc ./Core/Drivers/drv_gpio.o
+ .text          0x0000000000000000        0x0 ./Core/Drivers/drv_gpio.o
+ .data          0x0000000000000000        0x0 ./Core/Drivers/drv_gpio.o
+ .bss           0x0000000000000000        0x0 ./Core/Drivers/drv_gpio.o
+ .debug_info    0x0000000000000000       0x22 ./Core/Drivers/drv_gpio.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/Drivers/drv_gpio.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/Drivers/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/Drivers/drv_gpio.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/Drivers/drv_gpio.o
+ .debug_line    0x0000000000000000       0x3b ./Core/Drivers/drv_gpio.o
+ .debug_str     0x0000000000000000     0x2dd9 ./Core/Drivers/drv_gpio.o
+ .comment       0x0000000000000000       0x44 ./Core/Drivers/drv_gpio.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/Drivers/drv_gpio.o
+ .group         0x0000000000000000        0xc ./Core/Drivers/drv_uart.o
+ .text          0x0000000000000000        0x0 ./Core/Drivers/drv_uart.o
+ .data          0x0000000000000000        0x0 ./Core/Drivers/drv_uart.o
+ .bss           0x0000000000000000        0x0 ./Core/Drivers/drv_uart.o
+ .debug_info    0x0000000000000000       0x22 ./Core/Drivers/drv_uart.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/Drivers/drv_uart.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/Drivers/drv_uart.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/Drivers/drv_uart.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/Drivers/drv_uart.o
+ .debug_line    0x0000000000000000       0x3b ./Core/Drivers/drv_uart.o
+ .debug_str     0x0000000000000000     0x2dd9 ./Core/Drivers/drv_uart.o
+ .comment       0x0000000000000000       0x44 ./Core/Drivers/drv_uart.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/Drivers/drv_uart.o
+ .group         0x0000000000000000        0xc ./Core/Services/logger_service.o
+ .text          0x0000000000000000        0x0 ./Core/Services/logger_service.o
+ .data          0x0000000000000000        0x0 ./Core/Services/logger_service.o
+ .bss           0x0000000000000000        0x0 ./Core/Services/logger_service.o
+ .debug_info    0x0000000000000000       0x22 ./Core/Services/logger_service.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/Services/logger_service.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/Services/logger_service.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/Services/logger_service.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/Services/logger_service.o
+ .debug_line    0x0000000000000000       0x42 ./Core/Services/logger_service.o
+ .debug_str     0x0000000000000000     0x2de0 ./Core/Services/logger_service.o
+ .comment       0x0000000000000000       0x44 ./Core/Services/logger_service.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/Services/logger_service.o
+ .group         0x0000000000000000        0xc ./Core/Services/queue_service.o
+ .text          0x0000000000000000        0x0 ./Core/Services/queue_service.o
+ .data          0x0000000000000000        0x0 ./Core/Services/queue_service.o
+ .bss           0x0000000000000000        0x0 ./Core/Services/queue_service.o
+ .debug_info    0x0000000000000000       0x22 ./Core/Services/queue_service.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/Services/queue_service.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/Services/queue_service.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/Services/queue_service.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/Services/queue_service.o
+ .debug_line    0x0000000000000000       0x41 ./Core/Services/queue_service.o
+ .debug_str     0x0000000000000000     0x2ddf ./Core/Services/queue_service.o
+ .comment       0x0000000000000000       0x44 ./Core/Services/queue_service.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/Services/queue_service.o
+ .group         0x0000000000000000        0xc ./Core/Services/watchdog_service.o
+ .text          0x0000000000000000        0x0 ./Core/Services/watchdog_service.o
+ .data          0x0000000000000000        0x0 ./Core/Services/watchdog_service.o
+ .bss           0x0000000000000000        0x0 ./Core/Services/watchdog_service.o
+ .debug_info    0x0000000000000000       0x22 ./Core/Services/watchdog_service.o
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/Services/watchdog_service.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./Core/Services/watchdog_service.o
+ .debug_macro   0x0000000000000000       0x11 ./Core/Services/watchdog_service.o
+ .debug_macro   0x0000000000000000      0xaa8 ./Core/Services/watchdog_service.o
+ .debug_line    0x0000000000000000       0x44 ./Core/Services/watchdog_service.o
+ .debug_str     0x0000000000000000     0x2de2 ./Core/Services/watchdog_service.o
+ .comment       0x0000000000000000       0x44 ./Core/Services/watchdog_service.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Core/Services/watchdog_service.o
  .group         0x0000000000000000        0xc ./Core/Src/freertos.o
  .group         0x0000000000000000        0xc ./Core/Src/freertos.o
  .group         0x0000000000000000        0xc ./Core/Src/freertos.o
@@ -3915,6 +4109,18 @@ Linker script and memory map
 LOAD C:/ST/STM32CubeIDE_1.13.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crti.o
 LOAD C:/ST/STM32CubeIDE_1.13.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 LOAD C:/ST/STM32CubeIDE_1.13.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.1.202309131626/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD ./Core/App/app.o
+LOAD ./Core/App/app_cli.o
+LOAD ./Core/App/app_control.o
+LOAD ./Core/App/app_fault.o
+LOAD ./Core/App/app_led.o
+LOAD ./Core/App/app_logger.o
+LOAD ./Core/App/app_sensor.o
+LOAD ./Core/Drivers/drv_gpio.o
+LOAD ./Core/Drivers/drv_uart.o
+LOAD ./Core/Services/logger_service.o
+LOAD ./Core/Services/queue_service.o
+LOAD ./Core/Services/watchdog_service.o
 LOAD ./Core/Src/freertos.o
 LOAD ./Core/Src/main.o
 LOAD ./Core/Src/stm32f4xx_hal_msp.o

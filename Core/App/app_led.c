@@ -6,3 +6,17 @@
  */
 
 
+#include "app_led.h"
+
+void APP_LED_Init(void)
+{
+
+}
+
+void APP_LED_Task(void *pvParameters)
+{
+	while(1)
+	{
+
+	}
+}
