@@ -76,19 +76,19 @@ Discarded input sections
  .text.APP_Init
                 0x0000000000000000        0xe ./Core/App/app.o
  .text.APP_CreateTasks
-                0x0000000000000000        0xe ./Core/App/app.o
- .debug_info    0x0000000000000000       0x4b ./Core/App/app.o
- .debug_abbrev  0x0000000000000000       0x31 ./Core/App/app.o
+                0x0000000000000000        0xc ./Core/App/app.o
+ .debug_info    0x0000000000000000       0x57 ./Core/App/app.o
+ .debug_abbrev  0x0000000000000000       0x5b ./Core/App/app.o
  .debug_aranges
                 0x0000000000000000       0x28 ./Core/App/app.o
  .debug_rnglists
                 0x0000000000000000       0x19 ./Core/App/app.o
- .debug_macro   0x0000000000000000       0x1b ./Core/App/app.o
+ .debug_macro   0x0000000000000000       0x25 ./Core/App/app.o
  .debug_macro   0x0000000000000000      0xaa8 ./Core/App/app.o
- .debug_line    0x0000000000000000       0x5f ./Core/App/app.o
- .debug_str     0x0000000000000000     0x2df5 ./Core/App/app.o
+ .debug_line    0x0000000000000000       0x71 ./Core/App/app.o
+ .debug_str     0x0000000000000000     0x2e12 ./Core/App/app.o
  .comment       0x0000000000000000       0x44 ./Core/App/app.o
- .debug_frame   0x0000000000000000       0x50 ./Core/App/app.o
+ .debug_frame   0x0000000000000000       0x4c ./Core/App/app.o
  .ARM.attributes
                 0x0000000000000000       0x34 ./Core/App/app.o
  .group         0x0000000000000000        0xc ./Core/App/app_cli.o

@@ -8,7 +8,16 @@
 #ifndef APP_APP_H_
 #define APP_APP_H_
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+
 void APP_Init(void);
 void APP_CreateTasks(void);
+
+#ifdef __cplusplus
+}
+#endif
 
 #endif /* APP_APP_H_ */

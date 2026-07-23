@@ -7,6 +7,7 @@
 
 
 #include "app.h"
+#include "app_led.h"
 
 void APP_Init(void)
 {
@@ -15,5 +16,5 @@ void APP_Init(void)
 
 void APP_CreateTasks(void)
 {
-
+	APP_LED_Init();
 }
