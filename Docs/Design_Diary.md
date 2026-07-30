@@ -36,3 +36,25 @@ Improves scalability.
 ## Lessons Learned
 
 Layered architecture separates hardware initialization from application behavior.
+
+
+## Lesson 06 – First Running Task
+
+### Objective
+Create and run the first FreeRTOS task using the native API.
+
+### Outcome
+- Implemented APP_LED_Task.
+- Created the task with xTaskCreate().
+- Verified scheduler startup.
+- Verified LED blink using vTaskDelay().
+
+### Key Learning
+A FreeRTOS task consists of:
+- Task Control Block (TCB)
+- Private Stack
+
+The scheduler manages task execution based on task state and priority.
+
+### Interview Takeaway
+Explain what happens internally when xTaskCreate() is called and why vTaskDelay() is preferred over HAL_Delay() inside RTOS tasks.

@@ -14,7 +14,6 @@ extern "C"{
 
 
 void APP_LED_Init(void);
-void APP_LED_Task(void *pvParameters);
 
 #ifdef __cplusplus
 }

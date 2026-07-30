@@ -1,0 +1,2 @@
+../Core/Services/logger_service.c:35:6:LOGGER_SERVICE_Init	1
+../Core/Services/logger_service.c:40:6:LOGGER_SERVICE_Log	3

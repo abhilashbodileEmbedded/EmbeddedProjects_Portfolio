@@ -14,7 +14,7 @@ extern "C" {
 
 
 void APP_Init(void);
-void APP_CreateTasks(void);
+void APP_Start(void);
 
 #ifdef __cplusplus
 }

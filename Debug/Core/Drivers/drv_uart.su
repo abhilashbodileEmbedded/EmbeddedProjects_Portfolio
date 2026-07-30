@@ -1,0 +1,2 @@
+../Core/Drivers/drv_uart.c:14:6:UART_Driver_Init	4	static
+../Core/Drivers/drv_uart.c:19:6:UART_Driver_SendString	16	static
